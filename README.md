@@ -9,4 +9,4 @@ Factors:\
 ->Humidity(%)\
 ->Wind_Speed(km/h)\
 ->Cloud_Cover(%)\
-->Pressure(hPa)\
+->Pressure(hPa)
