@@ -1,4 +1,4 @@
-# [Rain Prediction-App](rain-prediction-app-righty.streamlit.app)
+# [Rain Prediction-App](https://rain-prediction-app-righty.streamlit.app/)
 
 
 Its an app deployed on streamlit that allows user to predict if it will rain or not based on different factors entered by user.
