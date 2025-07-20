@@ -5,13 +5,8 @@ Its an app deployed on streamlit that allows user to predict if it will rain or 
 
 
 Factors:
-
 ->Temperature(°C)
-
 ->Humidity(%)
-
 ->Wind_Speed(km/h)
-
 ->Cloud_Cover(%)
-
 ->Pressure(hPa)
