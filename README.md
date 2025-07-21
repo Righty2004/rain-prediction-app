@@ -14,5 +14,5 @@ Factors:\
 
 ⚠️ Important: Python Version Compatibility
 
-This project uses scikit-learn==1.3.2, which does not support Python 3.13 or above.
+This project uses `scikit-learn==1.3.2`, which does not support Python 3.13 or above.\
 Please ensure you are using Python 3.12 or lower to avoid import errors or deployment failures.
